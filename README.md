@@ -1,5 +1,5 @@
-# OCTA-ReVA
-Description
+## OCTA-ReVA
+# Overview
 OCTA-ReVA (Optical Coherence Tomography Angiography - Retinal Vessel Analyzer) is an open-source platform designed for the automated extraction and quantitative analysis of OCTA features. It provides a user-friendly graphical interface built with MATLAB, facilitating detailed and non-invasive analysis of retinal blood vessels which is crucial for studying and diagnosing eye diseases.
 
 Features
