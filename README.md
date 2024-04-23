@@ -35,7 +35,6 @@ For support, email adadzi2@uic.edu or xcy@uic.edu, or open an issue on the repos
 
 ## Acknowledgments
 • National Eye Institute.\
-• National Institute of Health.\
 • Research to Prevent Blindness.\
 • Richard and Loan Hill Endowment.\
 • All contributors who participated in the development and enhancement of the OCTA-ReVA toolbox.
