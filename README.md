@@ -34,7 +34,7 @@ The OCTA-ReVA toolbox is available in two installer formats:
     &emsp;&emsp;3. Follow the on-screen instructions to complete the installation.
      
 **Basic Installer:** Requires an active internet connection to download MATLAB runtime libraries during installation. Suitable for users with MATLAB already installed or with internet access.\
-  &emsp;**Download:** [Link to Basic Installer]\
+  &emsp;**Download:** [[Link to Basic Installer](https://github.com/fiifijackson/OCTA-ReVA/blob/main/ReVa_Installer_web.exe)]\
   &emsp;**Installation Steps:**\
     &emsp;&emsp;1. Download the Basic Installer.\
     &emsp;&emsp;2. Double-click the downloaded file to begin the installation process.\
