@@ -16,7 +16,7 @@ The OCTA-ReVA after extracting quantitative features\
 **Supports Single and Batch Processing**: Enhanced utility for handling large-scale studies.\
 **Flexible Binarization Techniques**: Includes several methods such as Otsu, fixed, mean, median, and 3-sigma thresholding to suit diverse analytical needs.\
 ![image](https://github.com/fiifijackson/OCTA-ReVA/assets/75156845/60a55889-7d87-4a41-9f54-a14e9aeddd70)
-Binary masks of the various binarization techniques. A) Original OCTA image. B) Otsu method. C) Fixed thresholding with a threshold value of 0.3. D) Mean thresholding. E) Median thresholding. F) 3-sigma method.
+Binary masks of the various binarization techniques. A) Original OCTA image. B) Otsu method. C) Fixed thresholding with a threshold value of 0.3. D) Mean thresholding. E) Median thresholding. F) 3-sigma method.\
 <br>
 
 **Export Option**s: Allows saving of analysis results directly into Excel format and optional exporting of intermediate images.
