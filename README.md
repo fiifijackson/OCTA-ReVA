@@ -4,14 +4,24 @@ OCTA-ReVA (Optical Coherence Tomography Angiography - Retinal Vessel Analyzer) i
 
 ## Features
 **Graphical User Interface (GUI)**: Intuitive design with buttons, dropdown menus, and real-time visualization panels.\
-![GUI](https://github.com/fiifijackson/OCTA-ReVA/assets/75156845/2d4ee1c9-2cb1-4a5a-9dd8-8199b50dc402)
+![GUI](https://github.com/fiifijackson/OCTA-ReVA/assets/75156845/2d4ee1c9-2cb1-4a5a-9dd8-8199b50dc402)\
+The interface of the OCTA-ReVA at startup.\
+<br>
 
 **Quantitative Analysis**: Capable of calculating multiple OCTA features such as vessel density, vessel caliber, vessel perimeter index, and more.\
-![Features](https://github.com/fiifijackson/OCTA-ReVA/assets/75156845/68f57756-1889-4333-b57e-766a46ceb7a4)
+![Features](https://github.com/fiifijackson/OCTA-ReVA/assets/75156845/68f57756-1889-4333-b57e-766a46ceb7a4)\
+The OCTA-ReVA after extracting quantitative features\
+<br>
 
 **Supports Single and Batch Processing**: Enhanced utility for handling large-scale studies.\
 **Flexible Binarization Techniques**: Includes several methods such as Otsu, fixed, mean, median, and 3-sigma thresholding to suit diverse analytical needs.\
+![image](https://github.com/fiifijackson/OCTA-ReVA/assets/75156845/60a55889-7d87-4a41-9f54-a14e9aeddd70)
+Binary masks of the various binarization techniques. A) Original OCTA image. B) Otsu method. C) Fixed thresholding with a threshold value of 0.3. D) Mean thresholding. E) Median thresholding. F) 3-sigma method.
+<br>
+
 **Export Option**s: Allows saving of analysis results directly into Excel format and optional exporting of intermediate images.
+![image](https://github.com/fiifijackson/OCTA-ReVA/assets/75156845/759be7e8-fbf1-49a2-9221-01f265105e06)\
+Intermediate images. A) Original OCTA image. B) Binarized vessel map. C) Skeletonized vessel map. D) Vessel perimeter map.
 
 ## Usage
 1. Start the OCTA-ReVA Toolbox from the MATLAB command window.
