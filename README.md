@@ -23,6 +23,33 @@ Binary masks of the various binarization techniques. A) Original OCTA image. B) 
 ![image](https://github.com/fiifijackson/OCTA-ReVA/assets/75156845/759be7e8-fbf1-49a2-9221-01f265105e06)\
 Intermediate images. A) Original OCTA image. B) Binarized vessel map. C) Skeletonized vessel map. D) Vessel perimeter map.
 
+## Installation
+The OCTA-ReVA toolbox is available in two installer formats:
+
+**Full Installer (Recommended)**: Includes all necessary MATLAB runtime libraries. Best for users without an internet connection or who do not have MATLAB installed.\
+  **Download:** [Link to Full Installer]\
+  **Installation Steps:**
+    1. Download the Full Installer.
+    2. Double-click the downloaded file to begin the installation process.
+    3. Follow the on-screen instructions to complete the installation.
+     
+**Basic Installer:** Requires an active internet connection to download MATLAB runtime libraries during installation. Suitable for users with MATLAB already installed or with internet access.
+  **Download:** [Link to Basic Installer]
+  **Installation Steps:**
+    1. Download the Basic Installer.
+    2. Double-click the downloaded file to begin the installation process.
+    3. The installer will prompt you to download the MATLAB runtime if not already installed. Follow the on-screen instructions to complete both the runtime and software installation.
+For both installations, ensure that your system meets the required specifications listed in the system requirements section of this documentation. After installation, you can launch OCTA-ReVA via the desktop shortcut or from the start menu.
+
+If you encounter any issues during installation or usage, please consult the troubleshooting section or contact support.
+
+
+
+
+
+
+
+
 ## Usage
 1. Start the OCTA-ReVA Toolbox from the MATLAB command window.
 2. Load OCTA images by specifying the directory containing the images.
