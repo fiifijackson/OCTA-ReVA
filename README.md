@@ -62,7 +62,7 @@ For support, email adadzi2@uic.edu or xcy@uic.edu, or open an issue on the repos
 ## Citation
 If you use OCTA-ReVA in your research, please cite:
 
-[...]
+Dadzie, Albert; Le, David; Abtahi, Mansour; Ebrahimi, Behrouz; Adejumo, Tobiloba; Son, Taeyoon; et al. (2024). OCTA-ReVA: Comprehensive open-source tool for retinal vessel analysis in OCTA. Optica Open. Preprint. https://doi.org/10.1364/opticaopen.25679508.v1
 
 ## Contact
 Lead Developer: Albert Kofi Dadzie - adadzi2@uic.edu\
