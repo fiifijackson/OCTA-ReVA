@@ -27,7 +27,7 @@ Intermediate images. A) Original OCTA image. B) Binarized vessel map. C) Skeleto
 The OCTA-ReVA toolbox is available in two installer formats:
 
 **Full Installer (Recommended)**: Includes all necessary MATLAB runtime libraries. Best for users without an internet connection or who do not have MATLAB installed.\
-  &emsp;**Download:** [[Link to Full Installer](https://uofi.box.com/s/oiukszfkkxat09omhgl7cunmnkrm5p5x)]\
+  &emsp;**Download:** [[Link to Full Installer](https://uofi.box.com/s/l0ov3al3kiei6nhrwyxyqguii9hmgrrr)]\
   &emsp;**Installation Steps:**\
     &emsp;&emsp;1. Download the Full Installer.\
     &emsp;&emsp;2. Double-click the downloaded file to begin the installation process.\
